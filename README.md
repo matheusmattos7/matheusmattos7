@@ -1,9 +1,9 @@
 ## :clap: Olá, meu nome é Matheus Mattos!
 ### 💫 About Me:
-🔭 Estou em busca do meu primeiro emprego como desenvolvedor backend junior.<br>
-🌱 Atualmente estou aprendendo JavaScript e TypeScript.<br>
+🔭 Atualmente terminei o módulo de backend da Trybe e estou em busca do meu primeiro emprego como desenvolvedor backend junior.<br>
+🌱 Atualmente estou aprendendo Python.<br>
 💬 Engenheiro Civil por formação, estou em transição de carreira para a área de tecnologia, mais especificamente como desenvolvedor web backend.<br>
-:thinking: Linguagens que tenho curiosidade de aprender: Golang, Ruby e Rust. Também tenho um grande fascínio pela área de dados no geral.
+:thinking: Linguagens que tenho curiosidade de aprender: Golang, C# e Java. Também tenho um grande fascínio pela área de dados no geral.
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matheus.mattos7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusmattos7) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17501783) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/matheusmattos7) 

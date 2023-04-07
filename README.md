@@ -2,7 +2,7 @@
 ### 💫 About Me:
 💬 Engenheiro Civil por formação, estou em transição de carreira para a área de tecnologia, mais especificamente como desenvolvedor web backend.<br>
 🔭 Atualmente terminei o curso de desenvolvimento web da Trybe e estou em busca do meu primeiro emprego como desenvolvedor backend junior.<br>
-🌱 Atualmente estou aprendendo C#.<br>
+🌱 Atualmente estou aprendendo C# e fazendo o Bootcamp de Big Data Enginner da Semantix.<br>
 :thinking: Linguagens que tenho curiosidade de aprender: Golang, Rust e Java. Também tenho um grande fascínio pela área de dados no geral.
 
 ### 🌐 Socials:

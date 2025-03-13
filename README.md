@@ -1,9 +1,9 @@
 ## :clap: Olá, meu nome é Matheus Mattos!
 ### 💫 About Me:
-💬 Engenheiro Civil por formação, estou em transição de carreira para a área de tecnologia, mais especificamente como desenvolvedor web backend.<br>
-🔭 Atualmente terminei o curso de desenvolvimento web da Trybe e estou em busca do meu primeiro emprego como desenvolvedor backend junior.<br>
-🌱 Atualmente estou fazendo o Bootcamp de Big Data Enginner da Semantix.<br>
-:thinking: Linguagens que tenho curiosidade de aprender: Golang, Rust e Java. Também tenho um grande fascínio pela área de dados no geral.
+💬 Engenheiro Civil e Desenvolvedor de Software Backend.<br>
+🔭 Cursando Ciências da computação e formado no curso de desenvolvimento FullStack da Trybe, estou em busca de vagas de estágio ou Júnior.<br>
+🌱 Atualmente estou estudando Java e sobre ferramentas DevOps.<br>
+:thinking: Linguagens que tenho curiosidade de aprender: Golang e Rust. Também tenho um grande fascínio pela área de dados no geral.
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matheus.mattos7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusmattos7) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17501783) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/matheusmattos7) <br>

@@ -1,8 +1,8 @@
 ## :clap: Olá, meu nome é Matheus Mattos!
 ### 💫 About Me:
-💬 Engenheiro Civil e Desenvolvedor de Software Backend.<br>
-🔭 Cursando Ciências da computação e formado no curso de desenvolvimento FullStack da Trybe, estou em busca de vagas de estágio ou Júnior.<br>
-🌱 Atualmente estou estudando Java e sobre ferramentas DevOps.<br>
+💬 Engenheiro Civil e Desenvolvedor de Software.<br>
+🔭 Cursando Ciências da computação e formado no curso de desenvolvimento FullStack da Trybe, estou em busca de vagas de estágio ou Júnior como Desenvolvedor DevOps.<br>
+🌱 Atualmente estou estudando Kubernetes e sobre ferramentas DevOps.<br>
 :thinking: Linguagens que tenho curiosidade de aprender: Golang e Rust. Também tenho um grande fascínio pela área de dados no geral.
 
 ### 🌐 Socials:
